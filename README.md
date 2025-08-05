@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend Technology**
 
-- 📫 How to reach me **ppsarkar2005@gmail.com**
+- 📫 How to reach me **sarkarprasenjit9762@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
