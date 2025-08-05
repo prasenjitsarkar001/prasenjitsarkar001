@@ -1,3 +1,4 @@
+![logo](https://github.com/prasenjitsarkar001/prasenjitsarkar001/blob/main/Prasenjit%20Sarkar.png)
 <h1 align="center">Hi 👋, I'm Prasenjit Sarkar</h1>
 <h3 align="center">software developer</h3>
 
